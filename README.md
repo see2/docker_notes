@@ -1,7 +1,7 @@
 # docker_notes
 
 
-### use conda
+### Use Conda
 
 ```
 conda create -n [nameofenv] python=[version]
@@ -16,3 +16,9 @@ conda deactivate
 Install Docker in Windows
 
 
+### Splash
+
+```
+docker pull scrapinghub/splash
+docker run -it -p 8050:8050 scrapinghub/splash
+```
