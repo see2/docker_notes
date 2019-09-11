@@ -25,3 +25,7 @@ Install Docker in Windows
 docker pull scrapinghub/splash
 docker run -it -p 8050:8050 scrapinghub/splash
 ```
+
+and in python
+
+```pip install scrapy-splash```
