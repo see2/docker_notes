@@ -7,8 +7,11 @@
 conda create -n [nameofenv] python=[version]
 conda activate [nameofenv]
 conda install anaconda
+conda install netcdf4
 conda deactivate
 ```
+
+seldom use conda install netcdf4
 
 
 ### Docker
