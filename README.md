@@ -21,6 +21,8 @@ Install Docker in Windows
 
 ### Splash
 
+
+(open docker)
 ```
 docker pull scrapinghub/splash
 docker run -it -p 8050:8050 scrapinghub/splash
