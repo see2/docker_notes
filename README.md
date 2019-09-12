@@ -46,7 +46,7 @@ bash Anaconda3-5.3.1-Linux-x86_64.sh
 I failed two times, maybe caused by the incomplete package.
 
 
-### github
+### GitHub
 
 linux server connect to github using ssh:
 
