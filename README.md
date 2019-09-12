@@ -33,3 +33,14 @@ docker run -it -p 8050:8050 scrapinghub/splash
 and in python
 
 ```pip install scrapy-splash```
+
+
+### Install anaconda
+
+- In mainland:
+
+```
+wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh
+bash Anaconda3-5.3.1-Linux-x86_64.sh
+```
+I failed two times, maybe caused by the incomplete package.
