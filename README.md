@@ -42,6 +42,13 @@ and in python
 ```
 wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh
 bash Anaconda3-5.3.1-Linux-x86_64.sh
+
+sudo vim /etc/profile
+# change path
+PATH=/home/user/anaconda3/bin:$PATH
+# maybe the path is different
+source /etc/profile
+# apply change
 ```
 I failed two times, maybe caused by the incomplete package.
 
