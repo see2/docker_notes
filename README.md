@@ -44,3 +44,10 @@ wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux
 bash Anaconda3-5.3.1-Linux-x86_64.sh
 ```
 I failed two times, maybe caused by the incomplete package.
+
+
+### github
+
+linux server connect to github using ssh:
+
+https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
