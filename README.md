@@ -67,3 +67,8 @@ change some setting to allowed use ssh to pass the public key
 https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
 
 https://askubuntu.com/questions/311558/ssh-permission-denied-publickey
+
+
+### ipad
+
+termius on ios or ipados
