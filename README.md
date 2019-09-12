@@ -64,4 +64,6 @@ https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-th
 
 change some setting to allowed use ssh to pass the public key
 
+https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
+
 https://askubuntu.com/questions/311558/ssh-permission-denied-publickey
