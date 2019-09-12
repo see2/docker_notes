@@ -58,3 +58,10 @@ I failed two times, maybe caused by the incomplete package.
 linux server connect to github using ssh:
 
 https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+### ssh
+
+change some setting to allowed use ssh to pass the public key
+
+https://askubuntu.com/questions/311558/ssh-permission-denied-publickey
