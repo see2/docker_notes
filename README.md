@@ -18,6 +18,8 @@ seldom use conda install netcdf4
 
 Install Docker in Windows
 
+Install Docker in ubuntu
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ### Splash
 
