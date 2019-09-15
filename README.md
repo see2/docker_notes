@@ -60,7 +60,7 @@ linux server connect to github using ssh:
 https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 
-### ssh
+### RSA(SSH)
 
 change some setting to allowed use ssh to pass the public key:
 - https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
