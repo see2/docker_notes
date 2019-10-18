@@ -76,3 +76,11 @@ connection:
 ### ipad
 
 termius on ios or ipados
+
+
+### Other vitual environment
+
+- Conda
+
+A article compare conda/miniconda/virtualenv [here](http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/)
+
