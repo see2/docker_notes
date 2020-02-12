@@ -21,6 +21,10 @@ Install Docker in Windows
 Install Docker in ubuntu
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
+```
+docker inspect xxx
+```
+
 ### Splash
 
 
